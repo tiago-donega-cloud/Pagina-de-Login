@@ -7,6 +7,11 @@
 
 A fully responsive authentication interface built with semantic **HTML5** and modern **CSS3**, designed for cross-device compatibility, clean visual hierarchy, and accessible user navigation.
 
+
+## 📸 Interface & Code Preview
+
+<img width="1531" height="911" alt="Print Tela de Login" src="https://github.com/user-attachments/assets/b7ed9cea-af57-48f2-9896-6b3ee8867053" />
+
 ---
 
 ## 🛠️ Tech Stack & Architecture
@@ -36,6 +41,3 @@ Access the deployed interface directly via GitHub Pages:
 
 ---
 
-## 📸 Interface & Code Preview
-
-<img width="1531" height="911" alt="Print Tela de Login" src="https://github.com/user-attachments/assets/b7ed9cea-af57-48f2-9896-6b3ee8867053" />
